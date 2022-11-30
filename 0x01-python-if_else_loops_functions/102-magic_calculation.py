@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Bamidele Adefolaju
+# Author - Solomon Peter
 
 def magic_calculation(a, b, c):
     """Match bytecode provided by Holberton School."""
@@ -7,4 +7,4 @@ def magic_calculation(a, b, c):
         return (c)
     if c > b:
         return (a + b)
-    return (a*b - c
+    return (a*b - c)
